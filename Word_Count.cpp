@@ -1,7 +1,7 @@
-# CodSoft Internship
-# Domain Name - Python Programming
-# Task - 4(Word Count)
-# Intern Name - Soumalya Bhattacharyya
+// CodSoft Internship
+// Domain Name - Python Programming
+// Task - 4(Word Count)
+// Intern Name - Soumalya Bhattacharyya
 
 #include <iostream>
 #include <fstream>
