@@ -1,5 +1,5 @@
 # CodSoft Internship
-# Domain Name - Python 
+# Domain Name - Python Programming
 # Task - 2(Calculator)
 # Intern Name - Soumalya Bhattacharyya
 
