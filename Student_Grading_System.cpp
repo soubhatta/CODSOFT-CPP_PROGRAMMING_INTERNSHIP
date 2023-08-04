@@ -1,3 +1,8 @@
+// CodSoft Internship
+// Domain Name - C++ Programming
+// Task - 3(Student Grading System)
+// Intern Name - Soumalya Bhattacharyya
+
 #include <iostream>
 #include <string>
 #include <vector>
