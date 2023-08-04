@@ -1,8 +1,7 @@
 # CodSoft Internship
-# Domain Name - Python 
-# A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
-# TASK - 3(PASSWORD GENERATOR)
-# INTERN NAME - SOUMALYA BHATTACHARYA
+# Domain Name - Python Programming
+# TASK - 3(Password Generator)
+# Intern Name - Soumalya Bhattacharyya
 
 import tkinter as tk
 from tkinter import *
