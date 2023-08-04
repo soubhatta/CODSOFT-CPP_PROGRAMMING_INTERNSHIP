@@ -1,3 +1,8 @@
+# CodSoft Internship
+# Domain Name - C++ Programming
+# Task - 2(Simple Calculator)
+# Intern Name - Soumalya Bhattacharyya
+
 #include<iostream>
 
 using namespace std;
