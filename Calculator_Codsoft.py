@@ -1,8 +1,7 @@
 # CodSoft Internship
 # Domain Name - Python 
-# Design a simple calculator with basic arithmetic operations.Prompt the user to input two numbers and an operation choice.Perform the calculation and display the result.
-# TASK - 2(CALCULATOR)
-# INTERN NAME - SOUMALYA BHATTACHARYA
+# Task - 2(Calculator)
+# Intern Name - Soumalya Bhattacharyya
 
 import tkinter as tk
 from math import sqrt
